@@ -62,7 +62,7 @@ const Footer = () => {
             height={20}
             className='rounded-full m-0'
           />
-          <p>Copyright. All rights reserved.</p>
+          <p>Created by @tmnbaeel30.</p>
         </div>
         <p className='font-montserrat cursor-pointer'>Terms & Conditions</p>
       </div>
